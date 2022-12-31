@@ -2,7 +2,7 @@
 This is a web based application developed for health related based website in india
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 *Project Link* - https://victorious-pond-008202900.2.azurestaticapps.net
-*project demo video link* - 
+*project demo video link* - https://youtu.be/tOKrMQbsB6M
 ## Azure technologies used for Project
 - Static web apps
 - Health bot
